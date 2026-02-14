@@ -6,6 +6,7 @@ Ahmad Afif Al Ghifary, NIM 2509116002, Sistem Informasi A' 2025
 
 # **Import Library**
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+import pandas as pd
 
 # Dataset
 ![Dataset on Kaggle](https://www.kaggle.com/datasets/mylesoneill/world-university-rankings)
