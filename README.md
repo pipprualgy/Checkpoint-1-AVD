@@ -5,7 +5,7 @@ Ahmad Afif Al Ghifary, NIM 2509116002, Sistem Informasi A' 2025
 # **Peringkat Universitas Dunia**
 
 # **Import Library**
-![import pandas as pd](https://colab.research.google.com/drive/1X9gwXegynSTry_rirwmgmez3taMzLYrB#scrollTo=LZ2sKiyGWllL&line=1&uniqifier=1)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 # Dataset
 ![Dataset on Kaggle](https://www.kaggle.com/datasets/mylesoneill/world-university-rankings)
